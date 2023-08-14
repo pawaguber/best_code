@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension 	type="module" version="3.4" client="site">
+        <name>Каталоги</name>
+        <creationDate>16 06 2023</creationDate>
+        <author>Павло</author>
+        <description>модуль з каталогами</description>
+		
+		<files>
+			<folder>js</folder>	
+            <folder>css</folder>
+			<filename module="mod_page_catalogs">mod_page_catalogs.php</filename>
+        </files>
+</extension>
